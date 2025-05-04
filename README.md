@@ -1,3 +1,7 @@
+# Contract Details:
+
+**CA**: https://sepolia-blockscout.lisk.com/tx/0xbebbac13a590ff05d6bd0aed67c84d98abe7753b5b4da1f6db753dcefd8ba51f  
+
 # Sample Hardhat Project
 
 This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
